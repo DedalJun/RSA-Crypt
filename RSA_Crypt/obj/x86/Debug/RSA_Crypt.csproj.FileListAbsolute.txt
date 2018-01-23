@@ -1,0 +1,8 @@
+c:\users\админ\documents\visual studio 2010\Projects\RSA_Crypt\RSA_Crypt\bin\Debug\RSA_Crypt.exe
+c:\users\админ\documents\visual studio 2010\Projects\RSA_Crypt\RSA_Crypt\bin\Debug\RSA_Crypt.pdb
+c:\users\админ\documents\visual studio 2010\Projects\RSA_Crypt\RSA_Crypt\obj\x86\Debug\RSA_Crypt.Form1.resources
+c:\users\админ\documents\visual studio 2010\Projects\RSA_Crypt\RSA_Crypt\obj\x86\Debug\RSA_Crypt.Properties.Resources.resources
+c:\users\админ\documents\visual studio 2010\Projects\RSA_Crypt\RSA_Crypt\obj\x86\Debug\RSA_Crypt.csproj.GenerateResource.Cache
+c:\users\админ\documents\visual studio 2010\Projects\RSA_Crypt\RSA_Crypt\obj\x86\Debug\RSA_Crypt.exe
+c:\users\админ\documents\visual studio 2010\Projects\RSA_Crypt\RSA_Crypt\obj\x86\Debug\RSA_Crypt.pdb
+C:\Users\Админ\Documents\Visual Studio 2010\Projects\RSA_Crypt\RSA_Crypt\obj\x86\Debug\RSA_Crypt.csprojResolveAssemblyReference.cache
